@@ -1,5 +1,5 @@
 ---
-title: "El Projects"
+title: "Chew's Projects"
 timezone: UTC
 collections:
   posts:
@@ -22,7 +22,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 permalink: "/:title"
-description: 'Chew's Github Projects.'
+description: "Chew's Github Projects."
 baseurl:
 url: http://chew.pro
 twitter_username: chewcraft
