@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://chew.pro/sitemap.xml

@@ -1,0 +1,56 @@
+---
+title: Chew's Projects
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:month-:day-:year-:title:output_ext"
+    layout: post
+    author: Chew
+    gists: false
+safe: false
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: "/:title"
+description: 'Chew's Github Projects.'
+baseurl:
+url: http://chew.pro
+twitter_username: chewcraft
+github_username: chewsterchew
+accent: "#f7f7e6"
+author: Chew
+address: nah
+email: chew@chew.pw
+tel: "nah"
+isolang: en
+exclude:
+- LICENSE
+- README.md
+include:
+- ".firebaserc"
+- firebase.json
+replacements:
+- - "<img"
+  - "<amp-img"
+- - alt="" />
+  - ' layout="responsive" height="300px" width="600px"></amp-img>'
+- - "<video"
+  - "<amp-video"
+- - "</video"
+  - "</amp-video"
+- - <script src="https://gist.github.com/lukas-h/
+  - <amp-gist data-gistid="
+- - .js"></script>
+  - '" layout="fixed-height" height="250"></amp-gist>'
+- - id="amp"
+  - id="a-m-p"

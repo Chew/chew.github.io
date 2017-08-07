@@ -1,0 +1,4 @@
+- name: 'TRBMB Generator'
+  link: http://trbmb.chew.pw
+  github: https://github.com/chewsterchew/trbmb-gen
+  description: A fun generator to generate silly phrases.
