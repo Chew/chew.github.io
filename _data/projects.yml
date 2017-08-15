@@ -5,4 +5,15 @@
 - name: 'Ti-84 Programs'
   link: http://ti84.chew.pw
   github: https://github.com/chewsterchew/ti84-programs
-  description: Programs and games for your ti-84+CE Calculator!
+  description: Programs and games for your Ti-84+CE Calculator!
+- name: 'LeChewPlugin'
+  github: https://github.com/chewsterchew/LeChewPlugin
+  description: A barely functional minecraft spigot plugin.
+- name: 'ChewOres'
+  link: http://bit.ly/ChewOres
+  github: https://github.com/chewsterchew/chewores
+  description: A simple Minecraft Mod (with no uses)
+- name: 'ChewPack'
+  description: A work-in-progress Minecraft Modpack
+
+
