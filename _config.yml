@@ -29,16 +29,11 @@ twitter_username: chewcraft
 github_username: chewsterchew
 accent: "#f7f7e6"
 author: Chew
-address: nah
 email: chew@chew.pw
-tel: "nah"
 isolang: en
 exclude:
 - LICENSE
 - README.md
-include:
-- ".firebaserc"
-- firebase.json
 replacements:
 - - "<img"
   - "<amp-img"
