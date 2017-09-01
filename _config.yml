@@ -22,14 +22,13 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 permalink: "/:title"
-description: "Chew's Github Projects."
+description: "Chew's GitHub Projects."
 baseurl:
 url: http://chew.pro
 twitter_username: chewcraft
 github_username: chewsterchew
 accent: "#f7f7e6"
 author: Chew
-email: chew@chew.pw
 isolang: en
 exclude:
 - LICENSE
