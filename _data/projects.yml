@@ -7,6 +7,11 @@
   link: http://ti84.chew.pw
   github: https://github.com/chewsterchew/ti84-programs
   description: Programs and games for your Ti-84+CE Calculator!
+- name: 'Chewbotcca IRC'
+  description: An irc bot in active development
+  github: http://github.com/Chewsterchew/ChewbotccaIRC
+  description: http://chew.pro/ChewbotccaIRC
+  irc: http://chew.pro/ChewbotccaIRC/irc
 - name: 'LeChewPlugin'
   github: https://github.com/chewsterchew/LeChewPlugin
   description: A barely functional minecraft spigot plugin.
