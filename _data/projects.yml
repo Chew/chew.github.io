@@ -8,10 +8,18 @@
   github: https://github.com/chewsterchew/ti84-programs
   description: Programs and games for your Ti-84+CE Calculator!
 - name: 'Chewbotcca IRC'
-  description: An irc bot in active development
+  link: http://chew.pro/ChewbotccaIRC
   github: http://github.com/Chewsterchew/ChewbotccaIRC
-  description: http://chew.pro/ChewbotccaIRC
+  description: An irc bot in active development
   irc: http://chew.pro/ChewbotccaIRC/irc
+- name: 'xboxdrv Examples'
+  link: http://xboxdrv.chew.pro
+  description: A collection of xboxdrv examples for your gaming needs.
+  github: http://github.com/Chewsterchew/xboxdrv-examples
+- name: 'ChewAPI'
+  link: http://api.chew.pro
+  github: http://github.com/Chewsterchew/API
+  description: A collection of APIs relating to my projects.
 - name: 'LeChewPlugin'
   github: https://github.com/chewsterchew/LeChewPlugin
   description: A barely functional minecraft spigot plugin.
