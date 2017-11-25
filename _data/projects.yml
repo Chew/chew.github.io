@@ -29,12 +29,10 @@
   description: A simple Minecraft Mod (with no uses)
 - name: 'ChewPack'
   description: A work-in-progress Minecraft Modpack
-  irc: http://webchat.esper.net/?channels=ChewPack
+  irc: http://chew.pro/ChewPack/irc
+  link: http://chew.pro/ChewPack
+  github: http://github.com/Chewsterchew/ChewPack
 - name: 'Minecraft-IDs'
   description: My own edition of the Minecraft IDs list (in development)
   link: http://minecraft-ids.chew.pro
   github: https://github.com/chewsterchew/MinecraftIDs
-- name: 'ChewTrack'
-  description: My own fork of MineTrack where I put servers I like :D
-  link: http://chewtrack.tk
-  github: https://github.com/chewsterchew/chewtrack
