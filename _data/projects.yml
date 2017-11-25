@@ -9,9 +9,9 @@
   description: Programs and games for your Ti-84+CE Calculator!
 - name: 'Chewbotcca IRC'
   link: http://chew.pro/ChewbotccaIRC
-  github: http://github.com/Chewsterchew/ChewbotccaIRC
+  github: http://github.com/Chewbotcca/IRC
   description: An irc bot in active development
-  irc: http://chew.pro/ChewbotccaIRC/irc
+  irc: http://chewbotcca.github.io/IRC/irc
 - name: 'xboxdrv Examples'
   link: http://xboxdrv.chew.pro
   description: A collection of xboxdrv examples for your gaming needs.
@@ -38,4 +38,3 @@
   description: My own fork of MineTrack where I put servers I like :D
   link: http://chewtrack.tk
   github: https://github.com/chewsterchew/chewtrack
- 
