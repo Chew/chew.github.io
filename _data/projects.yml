@@ -1,38 +1,38 @@
 - name: 'TRBMB Generator'
-  link: http://trbmb.chew.pw
+  link: https://trbmb.chew.pw
   github: https://github.com/chewsterchew/trbmb-gen
   description: A fun generator to generate silly phrases.
   irc: https://chew.pro/irc/TRBMBGen
 - name: 'Ti-84 Programs'
-  link: http://ti84.chew.pw
+  link: https://ti84.chew.pw
   github: https://github.com/chewsterchew/ti84-programs
   description: Programs and games for your Ti-84+CE Calculator!
 - name: 'Chewbotcca IRC'
-  link: http://chew.pro/ChewbotccaIRC
-  github: http://github.com/Chewbotcca/IRC
+  link: https://irc.chewbotcca.co/
+  github: https://github.com/Chewbotcca/IRC
   description: An irc bot in active development
-  irc: http://chewbotcca.github.io/IRC/irc
+  irc: https://chewbotcca.github.io/IRC/irc
 - name: 'xboxdrv Examples'
-  link: http://xboxdrv.chew.pro
+  link: https://xboxdrv.chew.pro
   description: A collection of xboxdrv examples for your gaming needs.
-  github: http://github.com/Chewsterchew/xboxdrv-examples
+  github: https://github.com/Chewsterchew/xboxdrv-examples
 - name: 'ChewAPI'
   link: http://api.chew.pro
-  github: http://github.com/Chewsterchew/API
+  github: https://github.com/Chewsterchew/API
   description: A collection of APIs relating to my projects.
 - name: 'LeChewPlugin'
   github: https://github.com/chewsterchew/LeChewPlugin
   description: A barely functional minecraft spigot plugin.
 - name: 'ChewOres'
-  link: http://bit.ly/ChewOres
+  link: https://bit.ly/ChewOres
   github: https://github.com/chewsterchew/chewores
   description: A simple Minecraft Mod (with no uses)
 - name: 'ChewPack'
   description: A work-in-progress Minecraft Modpack
-  irc: http://chew.pro/ChewPack/irc
-  link: http://chew.pro/ChewPack
-  github: http://github.com/Chewsterchew/ChewPack
+  irc: https://chew.pro/ChewPack/irc
+  link: https://chew.pro/ChewPack
+  github: https://github.com/Chewsterchew/ChewPack
 - name: 'Minecraft-IDs'
   description: My own edition of the Minecraft IDs list (in development)
-  link: http://minecraft-ids.chew.pro
+  link: https://minecraft-ids.chew.pro
   github: https://github.com/chewsterchew/MinecraftIDs
