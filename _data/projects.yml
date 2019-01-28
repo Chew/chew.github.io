@@ -2,37 +2,18 @@
   link: https://trbmb.chew.pw
   github: https://github.com/chewsterchew/trbmb-gen
   description: A fun generator to generate silly phrases.
-  irc: https://chew.pro/irc/TRBMBGen
 - name: 'Ti-84 Programs'
   link: https://ti84.chew.pw
   github: https://github.com/chewsterchew/ti84-programs
   description: Programs and games for your Ti-84+CE Calculator!
-- name: 'Chewbotcca IRC'
-  link: https://irc.chewbotcca.co/
-  github: https://github.com/Chewbotcca/IRC
-  description: An irc bot in active development
-  irc: https://chewbotcca.github.io/IRC/irc
-- name: 'xboxdrv Examples'
-  link: https://xboxdrv.chew.pro
-  description: A collection of xboxdrv examples for your gaming needs.
-  github: https://github.com/Chewsterchew/xboxdrv-examples
-- name: 'ChewAPI'
-  link: http://api.chew.pro
-  github: https://github.com/Chewsterchew/API
-  description: A collection of APIs relating to my projects.
-- name: 'LeChewPlugin'
-  github: https://github.com/chewsterchew/LeChewPlugin
-  description: A barely functional minecraft spigot plugin.
-- name: 'ChewOres'
-  link: https://bit.ly/ChewOres
-  github: https://github.com/chewsterchew/chewores
-  description: A simple Minecraft Mod (with no uses)
-- name: 'ChewPack'
-  description: A work-in-progress Minecraft Modpack
-  irc: https://chew.pro/ChewPack/irc
-  link: https://chew.pro/ChewPack
-  github: https://github.com/Chewsterchew/ChewPack
-- name: 'Minecraft-IDs'
-  description: My own edition of the Minecraft IDs list (in development)
-  link: https://minecraft-ids.chew.pro
-  github: https://github.com/chewsterchew/MinecraftIDs
+- name: 'HQ Discord Bot'
+  link: https://hqtrivia.pro
+  github: https://github.com/Chewsterchew/HQ-DiscordBot
+  description: A discord bot to get your HQ Stats!
+- name: 'Memerator'
+  link: https://memerator.me
+  description: A meme website my friends and I are making
+- name: 'HQ Discord Bot'
+  link: https://hqtrivia.pro
+  github: https://github.com/Chewsterchew/HQ-DiscordBot
+  description: A discord bot to get your HQ Stats!
