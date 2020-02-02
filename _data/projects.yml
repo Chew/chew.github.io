@@ -1,19 +1,22 @@
+- name: 'Memerator'
+  link: https://memerator.me
+  github: https://github.com/Memerator
+  description: A meme website my friends and I are making
+- name: 'NoPlayersNoServer'
+  link: https://www.spigotmc.org/resources/noplayersnoserver.72385/
+  github: https://github.com/Chew/NoPlayersNoServer
+  description: A minecraft spigot plugin that stops the server when no one is on for a while
 - name: 'TRBMB Generator'
   link: https://trbmb.chew.pw
-  github: https://github.com/chewsterchew/trbmb-gen
+  github: https://github.com/Chew/TRBMB-Gen
   description: A fun generator to generate silly phrases.
 - name: 'Ti-84 Programs'
   link: https://ti84.chew.pw
-  github: https://github.com/chewsterchew/ti84-programs
+  github: https://github.com/Chew/Ti84-Programs
   description: Programs and games for your Ti-84+CE Calculator!
-- name: 'HQ Discord Bot'
-  link: https://hqtrivia.pro
-  github: https://github.com/Chewsterchew/HQ-DiscordBot
-  description: A discord bot to get your HQ Stats!
-- name: 'Memerator'
-  link: https://memerator.me
-  description: A meme website my friends and I are making
-- name: 'HQ Discord Bot'
-  link: https://hqtrivia.pro
-  github: https://github.com/Chewsterchew/HQ-DiscordBot
-  description: A discord bot to get your HQ Stats!
+- name: 'HQ Trivia Statistics'
+  link: https://stats.hqtrivia.pro
+  description: A website to get your HQ Stats!
+- name: 'VivaldiUpdater-Ubuntu'
+  github: https://github.com/Chew/VivaldiUpdater-Ubuntu
+  description: A simple ruby gem to simplify updating Vivaldi on Ubuntu
