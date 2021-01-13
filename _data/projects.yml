@@ -2,10 +2,21 @@
   link: https://memerator.me
   github: https://github.com/Memerator
   description: A meme website my friends and I are making
+- name: 'Minecraft Tools'
+  link: https://chew.pw/mc
+  description: A collection of tools for Minecraft server owners
+- name: 'Chewbotcca'
+  link: https://chew.pw/chewbotcca
+  github: https://github.com/Chewbotcca/Discord
+  description: A multi-purpose bot for Discord, mostly with commands I want
+- name: 'TransmuteIt'
+  link: https://www.spigotmc.org/resources/transmuteit.76287
+  github: https://github.com/ChewMC/TransmuteIt
+  description: "A Spigot plugin based on ProjectE's Transmutation system"
 - name: 'NoPlayersNoServer'
   link: https://www.spigotmc.org/resources/noplayersnoserver.72385/
-  github: https://github.com/Chew/NoPlayersNoServer
-  description: A minecraft spigot plugin that stops the server when no one is on for a while
+  github: https://github.com/ChewMC/NoPlayersNoServer
+  description: A Spigot plugin that stops the server when no one is on for a while
 - name: 'TRBMB Generator'
   link: https://trbmb.chew.pw
   github: https://github.com/Chew/TRBMB-Gen
@@ -17,6 +28,3 @@
 - name: 'HQ Trivia Statistics'
   link: https://stats.hqtrivia.pro
   description: A website to get your HQ Stats!
-- name: 'VivaldiUpdater-Ubuntu'
-  github: https://github.com/Chew/VivaldiUpdater-Ubuntu
-  description: A simple ruby gem to simplify updating Vivaldi on Ubuntu
