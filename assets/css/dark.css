@@ -1,0 +1,178 @@
+/*
+                        _______
+                       /       \
+                      .==.    .==.
+                     ((  ))==((  ))
+                    / "=="    "=="\
+                   /____|| || ||___\
+       ________     ____    ________  ___    ___
+       |  ___  \   /    \   |  ___  \ |  |  /  /
+       |  |  \  \ /  /\  \  |  |  \  \|  |_/  /
+       |  |   )  /  /__\  \ |  |__/  /|  ___  \
+       |  |__/  /  ______  \|  ____  \|  |  \  \
+_______|_______/__/ ____ \__\__|___\__\__|___\__\____
+|  ___  \ |  ____/ /    \   |  ___  \ |  ____|  ___  \
+|  |  \  \|  |___ /  /\  \  |  |  \  \|  |___|  |  \  \
+|  |__/  /|  ____/  /__\  \ |  |   )  |  ____|  |__/  /
+|  ____  \|  |__/  ______  \|  |__/  /|  |___|  ____  \
+|__|   \__\____/__/      \__\_______/ |______|__|   \__\
+                https://darkreader.org
+*/
+/* User-Agent Style */
+@media (prefers-color-scheme: dark) {
+    html {
+        background-color: #121415 !important;
+    }
+
+    html, body, input, textarea, select, button {
+        background-color: #121415;
+    }
+
+    html, body, input, textarea, select, button {
+        border-color: #857b6a;
+        color: #ffffff;
+    }
+
+    a {
+        color: #34abff;
+    }
+
+    table {
+        border-color: #5e666a;
+    }
+
+    ::placeholder {
+        color: #d4ccbf;
+    }
+
+    input:-webkit-autofill,
+    textarea:-webkit-autofill,
+    select:-webkit-autofill {
+        background-color: #5f6600 !important;
+        color: #ffffff !important;
+    }
+
+    ::selection {
+        background-color: #0055ca !important;
+        color: #ffffff !important;
+    }
+
+    ::-moz-selection {
+        background-color: #0055ca !important;
+        color: #ffffff !important;
+    }
+
+    /* Invert Style */
+    .jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator, embed[type="application/pdf"] {
+        filter: invert(100%) hue-rotate(180deg) brightness(115%) !important;
+    }
+
+    /* Variables Style */
+    :root {
+        --darkreader-neutral-background: #0b0e0f;
+        --darkreader-neutral-text: #fffff9;
+        --darkreader-selection-background: #0055ca;
+        --darkreader-selection-text: #ffffff;
+    }
+
+    /* Modified CSS */
+    a {
+        text-decoration-color: initial;
+        color: rgb(255, 92, 92);
+    }
+
+    a:hover {
+        color: rgb(255, 96, 96);
+    }
+
+    a:active {
+        color: rgb(255, 121, 121);
+    }
+
+    .github-icon:hover,
+    .github-icon:focus,
+    .github-icon:active {
+        color: rgb(163, 253, 123);
+    }
+
+    .twitter-icon:hover,
+    .twitter-icon:focus,
+    .twitter-icon:active {
+        color: rgb(49, 200, 255);
+    }
+
+    .mail-icon:hover,
+    .mail-icon:focus,
+    .mail-icon:active {
+        color: rgb(255, 92, 92);
+    }
+
+    .rss-icon:hover,
+    .rss-icon:focus,
+    .rss-icon:active {
+        color: rgb(255, 187, 96);
+    }
+
+    .btn {
+        border-color: initial;
+        color: rgb(239, 233, 224);
+        background-color: transparent;
+        box-shadow: none;
+        -webkit-tap-highlight-color: transparent;
+        text-decoration-color: initial;
+    }
+
+    .btn:focus,
+    .btn:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+    .btn:active {
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
+    .btn.disabled,
+    btn:disabled {
+        background-color: transparent;
+        color: rgb(220, 212, 201);
+    }
+
+    .card {
+        border-color: rgb(63, 69, 73);
+    }
+
+    .card-action {
+        border-top-color: rgb(63, 69, 73);
+        background-image: initial;
+        background-color: rgb(56, 56, 9);
+    }
+
+    .chip {
+        background-color: rgb(56, 56, 9);
+    }
+
+    code,
+    kbd {
+        background-image: initial;
+        background-color: rgb(33, 37, 38);
+    }
+
+    /* Override Style */
+    .vimvixen-hint {
+        background-color: #8f5c00 !important;
+        border-color: #ffd20b !important;
+        color: #fffff0 !important;
+    }
+
+    ::placeholder {
+        opacity: 0.5 !important;
+    }
+
+    a[href="https://coinmarketcap.com/"] > svg[width="94"][height="16"] > path {
+        fill: var(--darkreader-neutral-text) !important;
+    }
+
+    #edge-translate-panel-body {
+        color: var(--darkreader-neutral-text) !important;
+    }
+}
