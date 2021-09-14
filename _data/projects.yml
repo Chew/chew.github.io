@@ -1,14 +1,23 @@
+- name: 'rory.cat'
+  link: https://rory.cat
+  github: https://github.com/Chew/rory.cat
+  description: A website for my cat, Rory!!
 - name: 'Memerator'
   link: https://memerator.me
   github: https://github.com/Memerator
   description: A meme website my friends and I are making
 - name: 'Minecraft Tools'
   link: https://chew.pw/mc
+  github: https://github.com/Chew/chew.pw
   description: A collection of tools for Minecraft server owners
 - name: 'Chewbotcca'
   link: https://chew.pw/chewbotcca
   github: https://github.com/Chewbotcca/Discord
   description: A multi-purpose bot for Discord, mostly with commands I want
+- name: 'JSONRestAPI'
+  link: https://www.spigotmc.org/resources/jsonrestapi.91423
+  github: https://github.com/ChewMC/JSONRestAPI
+  description: A Spigot plugin to query your server for information!
 - name: 'TransmuteIt'
   link: https://www.spigotmc.org/resources/transmuteit.76287
   github: https://github.com/ChewMC/TransmuteIt

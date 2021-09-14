@@ -23,8 +23,8 @@ highlighter: rouge
 lsi: false
 permalink: "/:title"
 description: "Chew's GitHub Projects."
-baseurl:
-url: http://chew.pro
+baseurl: https://chew.pro
+url: https://chew.pro
 twitter_username: chewcraft
 github_username: chew
 accent: "#f7f7e6"
@@ -34,17 +34,3 @@ exclude:
 - LICENSE
 - README.md
 replacements:
-- - "<img"
-  - "<amp-img"
-- - alt="" />
-  - ' layout="responsive" height="300px" width="600px"></amp-img>'
-- - "<video"
-  - "<amp-video"
-- - "</video"
-  - "</amp-video"
-- - <script src="https://gist.github.com/lukas-h/
-  - <amp-gist data-gistid="
-- - .js"></script>
-  - '" layout="fixed-height" height="250"></amp-gist>'
-- - id="amp"
-  - id="a-m-p"
