@@ -23,7 +23,7 @@ highlighter: rouge
 lsi: false
 permalink: "/:title"
 description: "Chew's GitHub Projects."
-baseurl: https://chew.pro
+baseurl: ""
 url: https://chew.pro
 twitter_username: chewcraft
 github_username: chew
