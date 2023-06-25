@@ -14,7 +14,7 @@ layout: default
     </div>
     <div class="card-action">
         {% if p.link %}
-        <a href="{{ p.link }}" class="btn"><i class="icon ion-earth"></i> LINK</a>
+            <a href="{{ p.link }}" class="btn" target="_blank"><i class="fas fa-link"></i> LINK</a>
         {% endif %}
         {% if p.github %}
         <a href="{{ p.github }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>
@@ -30,10 +30,10 @@ layout: default
     </div>
     <div class="card-action">
         {% if p.link %}
-        <a href="{{ p.link }}" class="btn"><i class="icon ion-earth"></i> LINK</a>
+        <a href="{{ p.link }}" class="btn" target="_blank"><i class="fas fa-link"></i> LINK</a>
         {% endif %}
         {% if p.github %}
-        <a href="{{ p.github }}" class="btn"><i class="icon ion-social-github"></i> REPO</a>
+        <a href="{{ p.github }}" class="btn" target="_blank"><i class="fab fa-github"></i> REPO</a>
         {% endif %}
         {% if p.irc %}
         <a href="{{ p.irc }}" class="btn"></i> IRC</a>
