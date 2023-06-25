@@ -60,7 +60,7 @@
 /* Wrapping at a maximum width is optional */
 .wrap .grid,
 .grid.wrap {
-    max-width: 978px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -333,7 +333,7 @@ li {
     border-top: 1px solid lightgrey;
     background: #f7f7e6;
     margin: 0;
-    padding: 5px 7px 7px;
+    padding: 5px;
     min-height: 36px;
 }
 

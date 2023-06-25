@@ -1,11 +1,18 @@
+- name: 'MLB Game Feed Bot'
+  link: https://discord.bots.gg/bots/987144502374436895
+  github: https://github.com/Chew/MLB-GameFeed-Bot
+  description: A Discord bot that posts MLB game updates to a channel
+  wiki: https://chew.wiki/view/MLB_Game_Feed_Bot
 - name: 'rory.cat'
   link: https://rory.cat
   github: https://github.com/Chew/rory.cat
   description: A website for my cat, Rory!!
+  wiki: https://chew.wiki/view/rory.cat
 - name: 'Memerator'
   link: https://memerator.me
   github: https://github.com/Memerator
   description: A meme website my friends and I are making
+  wiki: https://chew.wiki/view/Memerator
 - name: 'Minecraft Tools'
   link: https://chew.pw/mc
   github: https://github.com/Chew/chew.pw
@@ -14,26 +21,9 @@
   link: https://chew.pw/chewbotcca
   github: https://github.com/Chewbotcca/Discord
   description: A multi-purpose bot for Discord, mostly with commands I want
-- name: 'JSONRestAPI'
-  link: https://www.spigotmc.org/resources/jsonrestapi.91423
-  github: https://github.com/ChewMC/JSONRestAPI
-  description: A Spigot plugin to query your server for information!
+  wiki: https://chew.wiki/view/Chewbotcca_Discord_Bot
 - name: 'TransmuteIt'
   link: https://www.spigotmc.org/resources/transmuteit.76287
   github: https://github.com/ChewMC/TransmuteIt
   description: "A Spigot plugin based on ProjectE's Transmutation system"
-- name: 'NoPlayersNoServer'
-  link: https://www.spigotmc.org/resources/noplayersnoserver.72385/
-  github: https://github.com/ChewMC/NoPlayersNoServer
-  description: A Spigot plugin that stops the server when no one is on for a while
-- name: 'TRBMB Generator'
-  link: https://trbmb.chew.pw
-  github: https://github.com/Chew/TRBMB-Gen
-  description: A fun generator to generate silly phrases.
-- name: 'Ti-84 Programs'
-  link: https://ti84.chew.pw
-  github: https://github.com/Chew/Ti84-Programs
-  description: Programs and games for your Ti-84+CE Calculator!
-- name: 'HQ Trivia Statistics'
-  link: https://stats.hqtrivia.pro
-  description: A website to get your HQ Stats!
+  wiki: https://chew.wiki/view/TransmuteIt
